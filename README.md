@@ -13,7 +13,7 @@ OpenWeatherMap is an online service, owned by OpenWeather Ltd, that provides glo
 
 Clone this repository using :-
 
-git clone https://github.com/Bhavesh083/reactjs_WeatherWidget.git
+git clone https://github.com/dschits/WeatherWidget.git
 
 ![image](https://drive.google.com/uc?export=view&id=1SdigeY3y5QEdIq5N6zJqxFOEsjNJ8ZpG)
 
